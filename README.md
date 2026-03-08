@@ -68,7 +68,7 @@ steam-game-recommender
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/steam-game-recommender.git
+git clone https://github.com/GourabDG36/steam-game-recommender.git
 cd steam-game-recommender
 ```
 
@@ -152,7 +152,7 @@ Total records: **27,000+ games**
 
 # 👨‍💻 Author
 
-**Your Name**
+**Gourabdipta Ghosh**
 
 Machine Learning & AI Enthusiast
 
@@ -161,3 +161,4 @@ Machine Learning & AI Enthusiast
 # ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
+
